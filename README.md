@@ -1,1 +1,1 @@
-# coding
+#write code that takes a string as input and calculates the sum of consecutive odd numbers for each character in the string, where 'a' corresponds to 1, 'b' corresponds to 3, 'c' corresponds to 5, and so on
